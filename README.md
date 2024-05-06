@@ -1,6 +1,6 @@
 # OpenAI Test
 
-This is a simple Python script that uses the OpenAI API to translate text from one language to another.
+This is a simple Python script that uses the OpenAI API to translate text from one language to Elvish.
 
 ## Requirements
 
